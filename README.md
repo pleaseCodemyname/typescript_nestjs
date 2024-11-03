@@ -1,4 +1,4 @@
-# typescript_nestjs
+# typescript
 tsc&amp;nest_study
 
 1. typescript 설치 방법
